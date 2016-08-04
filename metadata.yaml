@@ -1,0 +1,37 @@
+_repo: Three-Elephant-Power-and-Other-Stories_307
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Paterson, A. B. (Andrew Barton)
+    aliases:
+    - Paterson, Banjo
+    - Paterson, Andrew Barton
+    birthdate: 1864
+    deathdate: 1941
+    gutenberg_agent_id: '118'
+    url: http://www.gutenberg.org/2009/agents/118
+    wikipedia: http://en.wikipedia.org/wiki/Banjo_Paterson
+description: ''
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2008-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '307'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Australia -- Social life and customs -- Fiction'
+- !lcsh 'Frontier and pioneer life -- Australia -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Short stories, Australian'
+- GITenberg
+tableOfContents: Three elephant power -- The Oracle -- The cast-iron canvasser --
+  The Merino sheep -- The bullock -- White-when-he's-wanted -- The downfall of Mulligan's
+  -- The amateur gardener -- Thirsty Island -- Dan Fitzgerald explains -- The cat
+  -- Sitting in judgment -- The dog -- The dog as a sportsman -- Concerning a steeplechase
+  rider -- Victor second -- Concerning a dog-fight -- His masterpiece -- Done for
+  the double.
+title: Three Elephant Power, and Other Stories
+url: http://www.gutenberg.org/ebooks/307
