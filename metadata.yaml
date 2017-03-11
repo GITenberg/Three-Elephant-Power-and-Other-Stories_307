@@ -1,5 +1,8 @@
 _repo: Three-Elephant-Power-and-Other-Stories_307
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Paterson, A. B. (Andrew Barton)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/118
     wikipedia: http://en.wikipedia.org/wiki/Banjo_Paterson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/307#Three-Elephant-Power-and-Other-Stories
 gutenberg_bookshelf: Australia
 gutenberg_issued: '2008-06-29'
 gutenberg_type: Text
